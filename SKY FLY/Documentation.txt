@@ -1,0 +1,9 @@
+DOCUMENTATION FOR SKY FLY APP
+
+When the application opens, a screen with a button "LET'S FLY" is seen.
+Click on the button. It takes to another screen which shows the current location of the passenger.
+This screen has 3 widgets: "map viewer", "information viewer", and "device location finder".
+On clicking on the "map viewer", the user will see a screen which shows the surrounding locations of importance and interest. A list is also there in the screen which needs to be dragged up from the bottom of the screen. The list contains places, which if selscted gives the details.
+The user can also manually drag the place marker and select it to view the location in the main map.
+In the mian map, once the desired location is selected, the "information viewer" gives the details of the place.
+The device location finder, gives the current location of the user.
